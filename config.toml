@@ -1,5 +1,5 @@
 title = "Going Minimal - The Joy of Less "
-baseurl             = "goingminimal.co.uk"
+baseurl             = "www.goingminimal.co.uk"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
