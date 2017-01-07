@@ -1,0 +1,3 @@
+# Going Minimal 
+
+Hugo blog
